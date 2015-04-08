@@ -46,7 +46,9 @@ ul ul li {
   border-bottom-style: none; 
 }
 
-
+.copyright {
+  font-size: 0.5em;
+}
 
 #epb3sldrzr-content-wrap ol ol, #epb3sldrzr-content-wrap ol ul, #epb3sldrzr-content-wrap ul ol, #epb3sldrzr-content-wrap ul ul {
     margin: 0 0 0 0.5em;
@@ -166,7 +168,7 @@ figure.right {
     width:       40%;
 }
 
-img {
+figure img {
     border: 1px solid #CCC; 
     border-radius: 10px; 
     box-shadow: 7px 7px 5px #888; 

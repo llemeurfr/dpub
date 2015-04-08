@@ -31,7 +31,7 @@ fi
 EPUB_FILENAME="EPUB3-Sliderizer"
 if [ "${TARGET}" != "doc" ]
 then
-    EPUB_FILENAME="EPUB3-Sliderizer_${TARGET}"
+    EPUB_FILENAME="${TARGET}"
 fi
 echo "EPUB file: ${EPUB_FILENAME}"
 
@@ -120,7 +120,7 @@ cd ${root}
 
 #### TODO REMOVE!!!
 #exit
-cp -r _OUTPUT/content/EPUB3 ../readium-js-viewer/epub_content/
+# cp -r _OUTPUT/content/EPUB3 ../readium-js-viewer/epub_content/
 
 
 

@@ -46,14 +46,16 @@ The Convergence of EPUB and the Web
 _CONTENT
 NO-MARKDOWN
 
-<h3 style="margin-top:2em"> 
-    Tzviya Siegmann, Wiley, Markus Gylling, IDPF, Ivan Herman, W3C
+<h3 style="margin-top:2em; line-height: 1.2em"> 
+    Tzviya Siegmann&nbsp;(Wiley), Markus Gylling&nbsp;(IDPF), Ivan Herman&nbsp;(W3C)
 </h3>
 <h3 style="margin-top:4em">
     IDPF Digital Books Conference, New York, USA
 </h3>
 <h3>2015-05-28</h3>
-<p style="margin-top:5em;"><a target="_blank"  style="text-decoration:none" href="http://creativecommons.org/licenses/by-nd/3.0/"><img  class="plain" alt="Creative Commons License" style="width:80; height:15" src="figures/80x15.png"></a>&nbsp;</a>This work is licensed under a <a target="_blank"  rel="cc:license" href="http://creativecommons.org/licenses/by-nd/3.0/">Creative Commons Attribution 3.0 License</a>, with attribution to <a target="_blank" href="http://www.w3.org">W3C</a><br/>Copyright<sup>©</sup> 2015 W3C<sup>®</sup> (MIT, ERCIM, Keio, Beihang)</p>
+<p class="copyright" style="margin-top:11em;"><a target="_blank"  style="text-decoration:none" href="http://creativecommons.org/licenses/by-nd/3.0/"><img  class="plain" alt="Creative Commons License" src="figures/80x15.png"></a>&nbsp;
+</a>This work is licensed under a <a target="_blank"  rel="cc:license" href="http://creativecommons.org/licenses/by-nd/3.0/">Creative Commons Attribution 3.0 License</a>, with attribution to <a target="_blank" href="http://www.w3.org">W3C</a>; <br/> <span>Copyright<sup>©</sup> 2015 W3C<sup>®</sup> (MIT, ERCIM, Keio, Beihang)</span>
+</p>
 
 // ******************************************************
 -SLIDE
@@ -70,40 +72,25 @@ NO-MARKDOWN
 _TITLE
 DPUB IG Origins 
 _CONTENT
-NO-MARKDOWN
-<ul>
-    <li>The publishing industry is, probably, the most important user of W3C’s Web technologies after (traditional) browsers:
-        <ul>
-            <li>almost <em>all</em> journals, magazines, etc, have an online version these days</li>
-            <li>scholarly publishing cannot exist without the Web any more</li>
-            <li>EPUB is, essentially, a frozen and packaged Web site</li>
-        </ul>
-    </li>
-    <li>The quality requirements of the publishing industry are very high:
-        <ul>
-            <li>high quality typesetting, graphics, etc.</li>
-            <li>new forms of publishing will be based on high level of interactions, rich media,&nbsp;…</li>
-            <li>common document and data publishing comes to the fore</li>
-        </ul>
-    </li>
-</ul>
+* The publishing industry is, probably, the most important user of W3C’s Web technologies after (traditional) browsers:
+    * almost *all* journals, magazines, etc, have an online version these days
+    * scholarly publishing cannot exist without the Web any more
+    * EPUB is, essentially, a frozen and packaged Web site
+* The quality requirements of the publishing industry are very high:
+    * high quality typesetting, graphics, etc.
+    * new forms of publishing will be based on high level of interactions, rich media,…
+    * common document and data publishing comes to the fore
 
 // ******************************************************
 -SLIDE
 _TITLE
 DPUB IG Origins (cont.)
 _CONTENT
-NO-MARKDOWN
-<ul> 
-    <li>But… the publishing industry had been in an entirely “passive” mode v.a.v. Web technologies
-        <ul>
-            <li>no participation in the development of fundamental Web technologies</li>
-            <li>W3C (and other standard bodies) hardly know about the requirements that this industry may have</li>
-            <li>the potential synergy between Web developers and publishers is missed out</li>
-        </ul>
-    </li>
-    <li>consequence: Working Groups at W3C set their priorities without knowing about, and considering, the publishing industry</li> 
-</ul>
+* But… the publishing industry had been in an entirely “passive” mode v.a.v. Web technologies
+    * no participation in the development of fundamental Web technologies
+    * W3C (and other standard bodies) hardly know about the requirements that this industry may have
+    * the potential synergy between Web developers and publishers is missed out
+* consequence: Working Groups at W3C set their priorities without knowing about, and considering, the publishing industry
 
 // ******************************************************
 -SLIDE

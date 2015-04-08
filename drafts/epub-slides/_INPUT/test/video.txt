@@ -1,0 +1,96 @@
+_TITLE
+The Convergence of EPUB and the Web
+
+// --------------------------------------------
+_CREATOR
+Tzviya Siegmann, Wiley, Markus Gylling, IDPF, Ivan Herman, W3C
+
+// --------------------------------------------
+_URL_ROOT
+https://w3c.github.io/dpub/idpf-digital-book-2015-05/
+
+_IDENTIFIER
+IDPF2015
+
+// --------------------------------------------
+_CSS_STYLE
+html#epb3sldrzr-NavDoc img#epb3sldrzr-logo
+{
+    width: 192px;
+    height: 50px;
+}
+html:not(#epb3sldrzr-NavDoc) img#epb3sldrzr-logo
+{
+    width: 192px;
+    height: 50px;
+}
+
+// --------------------------------------------
+_FILE_EPUB
+test.epub
+
+// --------------------------------------------
+_FILES_CSS
+assets/pres.css
+
+// --------------------------------------------
+_LOGO
+assets/logos.jpg
+
+// ******************************************************
+// ******************************************************
+// ******************************************************
+-SLIDE
+_TITLE
+The Convergence of EPUB and the Web
+_CONTENT
+NO-MARKDOWN
+
+<h3 style="margin-top:2em; line-height: 1.2em"> 
+    Tzviya Siegmann&nbsp;(Wiley), Markus Gylling&nbsp;(IDPF), Ivan Herman&nbsp;(W3C)
+</h3>
+<h3 style="margin-top:4em">
+    IDPF Digital Books Conference, New York, USA
+</h3>
+<h3>2015-05-28</h3>
+<p class="copyright" style="margin-top:11em;"><a target="_blank"  style="text-decoration:none" href="http://creativecommons.org/licenses/by-nd/3.0/"><img  class="plain" alt="Creative Commons License" src="figures/80x15.png"></a>&nbsp;
+</a>This work is licensed under a <a target="_blank"  rel="cc:license" href="http://creativecommons.org/licenses/by-nd/3.0/">Creative Commons Attribution 3.0 License</a>, with attribution to <a target="_blank" href="http://www.w3.org">W3C</a>; <br/> <span>Copyright<sup>©</sup> 2015 W3C<sup>®</sup> (MIT, ERCIM, Keio, Beihang)</span>
+</p>
+
+// ******************************************************
+-SLIDE
+_TITLE
+Is it a Web Site? Is it a Book?
+_CONTENT
+
+<video id="video_embed" class="fullxx" controls="controls">
+<source src="videos/JavaBook.mp4" type="video/mp4"></source
+<source src="videos/JavaBook.webm" type="video/webm" ></source
+<source src="videos/JavaBook.ogv" type="video/ogg"></source>
+</video>
+
+
+// ******************************************************
+-SLIDE
+_TITLE
+For Example: Book in a Browser (cont.)
+_CONTENT
+NO-MARKDOWN
+<figure class="right">
+    <img src="figures/joseph-book.png" alt="Joseph Reagle's book as an ebook in reader"/>
+    <figcaption><a target="_blank"  href="http://reagle.org/joseph/2010/gfc/chapter-4.html">Extract of Joseph Reagle’s Book</a> as ePUB</figcaption>
+</figure>
+<ul>
+    <li>But:
+        <ul>
+            <li>sometimes I may need the computing power of my desk-top for, e.g., interactive 3D content</li>
+            <li>at other times I may also want to use a small dedicated reader device to read the book on the beach…</li>
+        </ul>
+    </li>
+    <li>All these on <em>the same</em> book (not conversions from one format to the other)!</li>
+</ul>
+
+
+
+
+
